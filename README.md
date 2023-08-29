@@ -3,9 +3,9 @@ O The Closet é um e-commerce inovador que oferece as mais variadas peças de ro
 
 ## Proposta: E-commerce
 Imagine um site altamente intuitivo e minimalista que venderá somente os últimos lançamentos do mundo da moda. Este e-commerce além de você poder comprar, ele também oferece:
-** - Opção “Torne-se um vendedor”: ** Onde você vai estar podendo estar vendendo seus produtos de maneira fácil e prática.
-** - Carrinho de Compras: ** Cada item adicionado ao carrinho poderá estar separado lá, para que depois você possa finalizar a compra.
-** - Pagamento Digital: ** Utilizando QR Code para pagamentos com PIX, para se ter uma aprovação muito mais rápida.
+**- Opção “Torne-se um vendedor”:** Onde você vai estar podendo estar vendendo seus produtos de maneira fácil e prática.
+**- Carrinho de Compras:** Cada item adicionado ao carrinho poderá estar separado lá, para que depois você possa finalizar a compra.
+**- Pagamento Digital:** Utilizando QR Code para pagamentos com PIX, para se ter uma aprovação muito mais rápida.
 
 Ao desenvolver um e-commerce, teremos a oportunidade de trabalhar com diversas tecnologias e conceitos, como design de interface, pagamentos digitais, criação de um carrinho de compras, etc.
 
