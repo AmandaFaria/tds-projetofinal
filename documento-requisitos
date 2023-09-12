@@ -1,1 +1,52 @@
+# Documento de Requisitos
+
+## Visão Geral
+O e-commerce é uma aplicação web que permite aos usuários tanto vender, quanto comprar produtos online. A aplicação deve ser fácil de usar e intuitiva, com uma interface gráfica limpa e amigável.
+
+##Funcionalidades
+- Permitir ao usuário visualizar todas as peças de roupas.
+- Permitir ao usuário selecionar uma única peça para saber mais detalhes sobre ela (como por exemplo, nome, preço, descrição da peça, medidas, cores).
+- Permitir ao usuário pesquisar produtos.
+- Permitir ao usuário calcular o frete do produto.
+- Permitir ao usuário finalizar a compra.
+- Permitir ao usuário realizar um novo cadastro para realização das compras (por exemplo, nome, e-mail, senha, endereço, telefone).
+- Permitir ao usuário realizar o login através do e-mail e senha que foram cadastrados.
+- Permitir ao usuário cadastrar produtos.
+- Permitir ao usuário atualizar produtos.
+- Permitir ao usuário remover produtos.
+
+##Requisitos Técnicos
+- A aplicação deve ser desenvolvida em C#.
+- A aplicação deve utilizar minimal APIs REST
+- O banco de dados utilizado deve ser o SQLite
+- A aplicação deve ser desenvolvida em Razor.
+- A aplicação deve ser responsiva.
+- A aplicação deve ser segura, com autenticação de usuário e validação de entrada de dados.
+
+##Requisitos não funcionais
+- A aplicação deve realizar um backup a cada 30 minutos.
+- A aplicação deve rodar no Chrome e Firefox, em suas versões mais atualizadas
+- A aplicação deve carregar no máximo em 30 segundos.
+
+##Regras de Negócio
+- A peça de roupa deve conter nome, preço, descrição, quantidade, cores.
+- O carrinho de compras deve conter o produto com as informações (nome, preço, descrição,...), cupom de desconto e frete.
+- O usuário deve conter nome, e-mail, senha, endereço, celular, cpf ou cnpj.
+- O pedido deve conter informações do usuário (nome, telefone, endereço), um código de rastreamento, resumo das informações do produto (nome, quantidade, cor e preço) e a forma de pagamento.
+
+##Casos de Uso
+- Visualizar todas as peças de roupas
+- Selecionar uma peça de roupa
+- Pesquisar produtos
+- Calcular frete
+- Realizar pagamento
+- Finalizar compra
+- Criar novo cadastro
+- Realizar login
+- Cancelar compra de produto
+- Criar produtos
+- Atualizar produtos
+- Remover produtos
+- É hora de realizar o backup
+
 
